@@ -1,1 +1,1 @@
-# line_encoding
+"Manchester encoding"
